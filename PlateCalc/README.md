@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="devsoc_logo_clear" src="https://github.com/user-attachments/assets/7cc58b7b-49b0-4e14-95ed-111ccc08418c" />
+<img width="500" height="200" alt="devsoc_logo_clear" src="https://github.com/user-attachments/assets/7cc58b7b-49b0-4e14-95ed-111ccc08418c" />
 
 # 🥗 AI-Based Food Segmentation & Calorie Estimation System
 
