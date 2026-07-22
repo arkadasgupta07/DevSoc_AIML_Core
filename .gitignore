@@ -1,0 +1,9 @@
+# Ignore raw datasets or zip archives over 100MB
+PlateCalc/data/raw/
+*.zip
+*.tar.gz
+
+# Ignore heavy model weights over GitHub's size limit
+*.pt
+*.onnx
+*.engine
