@@ -1,4 +1,11 @@
-<img width="500" height="200" alt="devsoc_logo_clear" src="https://github.com/user-attachments/assets/7cc58b7b-49b0-4e14-95ed-111ccc08418c" />
+<p align="center">
+   <img width="300" height="250" alt="devsoc_logo_clear" src="https://github.com/user-attachments/assets/7cc58b7b-49b0-4e14-95ed-111ccc08418c" />
+<h3 align="center">
+  <strong align="center">~ Arka Dasgupta ~</strong><br>
+  <strong align="center">BITS Pilani, K. K. Birla Goa Campus</strong><br>
+</h3>
+</p>
+
 
 # 🥗 AI-Based Food Segmentation & Calorie Estimation System
 
