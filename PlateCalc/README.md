@@ -7,7 +7,7 @@
 </p>
 
 
-# 🥗 AI-Based Food Segmentation & Calorie Estimation System
+# 🥗 AI-Based Food Segmentation and Calorie Estimation System
 
 An end-to-end Computer Vision pipeline built with **YOLOv8 Instance Segmentation** and **OpenCV** to automatically detect food items from images, estimate their physical weight via 2D spatial area analysis, and calculate total meal caloric intake.
 
