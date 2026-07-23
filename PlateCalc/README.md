@@ -72,14 +72,12 @@ AIML CORE ASSIGNMENT/
 ---
 
 ## 💻 How to Run Inference
-1. Requirements
-Ensure required Python packages are installed:
+1. **Requirements** --> Ensure required Python packages are installed:
 ```text
 pip install ultralytics opencv-python numpy
 ```
 
-2. Run Batch Predictions
-Execute the main script to process validation images and generate annotated outputs in output_predictions/:
+2. **Run Batch Predictions** --> Execute the main script to process validation images and generate annotated outputs in output_predictions/:
 ```text
 python predict_calories.py
 ```
@@ -88,11 +86,11 @@ python predict_calories.py
 
 ## ⚠️ Limitations & Error Analysis
 
---> 2D Surface Approximation:
+1. **2D Surface Approximation:**
     Estimating 3D volume from 2D pixel area assumes standard thickness; highly volumetric or stacked foods can be underestimated.
 
---> Fine-Grained Texture Confusion:
+2. **Fine-Grained Texture Confusion:**
     Visually similar items (e.g., cooked shrimp vs. chicken/duck) can occasionally yield class confusion on lightweight Nano architectures.
 
---> Lighting Sensitivity:
+3. **Lighting Sensitivity:**
     Low-contrast glazes or sauces can blend overlapping food boundaries into unified segmentation shapes.
